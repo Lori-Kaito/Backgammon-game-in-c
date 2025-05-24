@@ -2,11 +2,11 @@
 
 ### Description:
 
-This program runs a backgammon game that is played by 2 players.
+- This program runs a backgammon game that is played by 2 players. Backgammon is a two-player board game where each player moves their pieces around the board based on dice rolls, aiming to be the first to remove all their pieces from the board. This is coded using c language.
 
 ### To run the program:
 
-#### Open terminal:
+### Open terminal then,
 
 ### Copy and enter this:
 
