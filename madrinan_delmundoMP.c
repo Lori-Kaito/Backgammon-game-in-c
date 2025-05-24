@@ -2,6 +2,8 @@
 Description: This program runs a backgammon game that is played by 2 players.
 Programmed by: Raico Luis C. Madrinan S16 & Rahmon Khayle U. Del Mundo S12
 Last modified: Dec 11
+To run: gcc madrinan_delmundoMP.c -o backgammon.exe
+then run .\backgammon.exe
 */
 
 
