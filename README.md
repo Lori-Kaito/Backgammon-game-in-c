@@ -1,9 +1,9 @@
-# Backgammon-game-in-c
+# Backgammon-game-in-c++
 
-## Description:
+### Description:
 
-### This program runs a backgammon game that is played by 2 players.
+    This program runs a backgammon game that is played by 2 players.
 
-## Programmed by:
+### Programmed by:
 
-### Raico Luis C. Madrinan & Rahmon Khayle U. Del Mundo
+     Raico Luis C. Madrinan & Rahmon Khayle U. Del Mundo
