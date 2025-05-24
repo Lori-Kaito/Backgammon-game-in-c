@@ -1,4 +1,4 @@
-# Backgammon-game-in-c
+# Simple backgammon-game-in-c
 
 ### Description:
 
